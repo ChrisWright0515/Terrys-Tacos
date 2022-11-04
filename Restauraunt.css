@@ -1,0 +1,227 @@
+html{
+    background-image: url(../RestaurantPractice/background.jfif);
+}
+*{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu{
+    height: 70px;
+    
+}
+.menu li{
+    margin: 10px 20px;
+    padding: 5px 50px;
+    display: inline-block;
+    border: none;
+    background-color: yellow;
+}
+.page{
+     text-align: center; 
+    height: 300px;
+    margin: 20px;
+    
+}
+#taco{
+    width: 100%;
+    height: 100%;
+    
+    
+}
+.terry{
+    width: fit-content;
+    background-color: yellow;
+    margin-top: 100px;
+    margin-left: 20px;
+    
+}
+.sub{
+    width: fit-content;
+    margin-top: 20px;
+    padding: 0%;
+    margin-left: 20px;
+    background-color: yellow;
+}
+#column{
+    background-image: url(../RestaurantPractice/Tacos.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 65%;
+}
+.column{
+    float: left;
+    
+    height: 300px;
+    
+}
+#rows{
+    float: left;
+    width: 35%;
+
+}
+.row{
+    
+    clear: both;
+    float: left;
+    padding: 0;
+    /* margin: 10px 20px; */
+     
+    height: 45%;
+    width: 35%;
+    background-color: yellow;
+}
+#topRow{
+    width: 70%;
+    margin-top: 0px;
+    margin-left: 38px;
+}
+#bottomRow{
+    width: 70%;
+    margin-top:  30px;
+    margin-left: 38px;
+
+}
+.price{
+    margin-top: 50px;
+}
+.page2{
+    height: 500px;  
+    margin: 20px; 
+    overflow: hidden;
+}
+.featured{
+     float: left;
+    width: 20%;
+    text-align: center;
+    margin: 20px;
+    height: 150px;
+    background-color: white;
+}
+#lilTaco{
+    background-image:url(../RestaurantPractice/LilTaco.jfif);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    
+    
+}
+#beer{
+    background-image: url(../RestaurantPractice/LilBeer.jfif);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#dessert{
+    background-image: url(../RestaurantPractice/LilWine.jfif);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#music{
+    background-image: url(../RestaurantPractice/LilNote.jfif);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.picture{
+    
+    margin: 0 42%;
+    height: 35px;
+    width: 55px;
+    
+    
+}
+.desc{
+    overflow: hidden;
+    width: 100%;
+   
+    
+}
+.featured1{
+    clear: both;
+    margin: 20px;
+    
+    height: 55%;
+    width: 90%;
+    background-color: white;
+    text-align: center;
+    overflow: hidden;
+}
+.tacoPic{
+    float: left;
+    padding-left: 200px;
+}
+.featuredTaco{
+    margin: 0 auto;
+    margin-top: 100px;
+    padding-left: 0%;
+    overflow: hidden;
+    
+
+}
+.grams{
+    clear: both;
+
+}
+.footer{
+    clear: both;
+    height: 600px;
+    
+}
+.grid{
+    float: left;
+    width: 15%;
+    margin: 10px 1.15%;
+    margin-left: 33px;
+    height: 300px;
+    
+}
+#grid1{
+    background-image: url(https://source.unsplash.com/random/200x200?sig=10);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#grid2{
+    background-image: url(https://source.unsplash.com/random/200x200?sig=9);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#grid3{
+    background-image: url(https://source.unsplash.com/random/200x200?sig=8);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#grid4{
+    background-image: url(https://source.unsplash.com/random/200x200?sig=7);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#grid5{
+    background-image: url(https://source.unsplash.com/random/200x200?sig=6);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#grid6{
+    background-image: url(https://source.unsplash.com/random/200x200?sig=5);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#grid7{
+    background-image: url(https://source.unsplash.com/random/200x200?sig=4);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#grid8{
+    background-image: url(https://source.unsplash.com/random/200x200?sig=3);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#grid9{
+    background-image: url(https://source.unsplash.com/random/200x200?sig=2);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#grid10{
+    background-image: url(https://source.unsplash.com/random/200x200?sig=1);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
